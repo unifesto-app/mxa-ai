@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       },
     ],
-    sitemap: 'https://mxa.ai/sitemap.xml',
+    sitemap: 'https://mxa-ai.unifesto.app/sitemap.xml',
   }
 }
